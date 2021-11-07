@@ -1,0 +1,1 @@
+git+http://git.angrydev.ru/public_repos/jarpc.git@v1.4#egg=jarpc>=1.4
